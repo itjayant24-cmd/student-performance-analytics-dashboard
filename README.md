@@ -1,2 +1,84 @@
-# student-performance-analytics-dashboard
-Interactive Power BI dashboard for student performance analysis using Python, Pandas, Excel and Power BI.
+#  Student Performance Analytics Dashboard
+
+##  Project Overview
+
+This project analyzes student academic performance, attendance trends, grade distribution, and course-wise outcomes using Python, Excel, and Power BI.
+
+The objective was to transform raw student data into meaningful insights through data cleaning, exploratory data analysis, and interactive dashboard development.
+
+---
+
+##  Tools & Technologies
+
+- Python
+- Pandas
+- Excel
+- Power BI
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+##  Dashboard Features
+
+### KPI Cards
+- Total Students
+- Average Percentage
+- Average Attendance
+- Grade-wise Analysis
+
+### Analytics Visuals
+- Grade Distribution Analysis
+- Course-wise Performance Comparison
+- Attendance Analysis
+- Top Performing Students
+
+### Interactive Features
+- Course Filters
+- Grade Filters
+- Gender Filters
+- Dynamic Dashboard Interactions
+
+---
+
+##  Key Insights
+
+- Identified high-performing courses.
+- Analyzed attendance patterns across students.
+- Compared grade distribution.
+- Highlighted top-performing students.
+- Built interactive reporting for academic analysis.
+
+---
+
+##  Project Structure
+
+student-performance-analytics-dashboard/
+
+├── data/
+
+├── dashboard/
+
+├── images/
+
+├── notebooks/
+
+└── README.md
+
+---
+
+##  Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- Power BI Reporting
+- Python Programming
+
+---
+
+##  Author
+
+Jayant Taneja
