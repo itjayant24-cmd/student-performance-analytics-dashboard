@@ -7,7 +7,7 @@
 ))
 ### KPI Section
 
-![KPI Section](URL_2)
+![KPI Section]([URL_2](https://github.com/itjayant24-cmd/student-performance-analytics-dashboard/blob/main/student-performance-analysis/images/KPI%20section.png?raw=true))
 
 ### Analytics Section
 ![Analytics Section](URL_3)
