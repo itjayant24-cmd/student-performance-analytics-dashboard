@@ -1,16 +1,19 @@
 #  Student Performance Analytics Dashboard
 ##  Dashboard Preview
 
+##  Dashboard Preview
+
 ### Main Dashboard
 
-![Dashboard Overview]([PASTE_IMAGE_URL_HERE](https://github.com/itjayant24-cmd/student-performance-analytics-dashboard/blob/main/student-performance-analysis/images/Dashboard_overview.png?raw=true
-))
+![Dashboard Overview](https://github.com/itjayant24-cmd/student-performance-analytics-dashboard/blob/main/student-performance-analysis/images/Dashboard_overview.png?raw=true)
+
 ### KPI Section
 
-![KPI Section]([URL_2](https://github.com/itjayant24-cmd/student-performance-analytics-dashboard/blob/main/student-performance-analysis/images/KPI%20section.png?raw=true))
+![KPI Section](https://github.com/itjayant24-cmd/student-performance-analytics-dashboard/blob/main/student-performance-analysis/images/KPI%20section.png?raw=true)
 
 ### Analytics Section
-![Analytics Section](URL_3)
+
+![Analytics Section](https://github.com/itjayant24-cmd/student-performance-analytics-dashboard/blob/main/student-performance-analysis/images/charts%20section.png?raw=true)
 
 ##  Project Overview
 
