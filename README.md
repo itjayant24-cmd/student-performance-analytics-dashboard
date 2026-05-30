@@ -1,7 +1,6 @@
 #  Student Performance Analytics Dashboard
 ##  Dashboard Preview
 
-##  Dashboard Preview
 
 ### Main Dashboard
 
